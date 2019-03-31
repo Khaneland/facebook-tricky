@@ -1,0 +1,20 @@
+{
+  "name": "facebook-tricky",
+  "version": "1.0.0",
+  "description": "Obter email e senha do usuário no terminal* de comando do node js, com uma simples injection aceita pelo Facebook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khaneland/facebook-tricky.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khaneland/facebook-tricky/issues"
+  },
+  "homepage": "https://github.com/Khaneland/facebook-tricky#readme"
+}
