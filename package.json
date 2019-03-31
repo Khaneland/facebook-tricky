@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Khaneland/facebook-tricky/issues"
   },
-  "homepage": "https://github.com/Khaneland/facebook-tricky#readme"
+  "homepage": "https://github.com/Khaneland/facebook-tricky#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
